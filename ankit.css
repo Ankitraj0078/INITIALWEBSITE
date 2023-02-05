@@ -1,0 +1,22 @@
+
+ul{
+    font-family: cursive;
+    color: green;
+    font-size: 23px;
+    line-height: 1.3em;
+    font-weight: bold;
+    font-style: italic;
+    background-color: aqua;
+    border: 30px solid rgb(181, 39, 39);
+    padding: 76px solid blue;
+}
+ol{
+    color: grey;
+}
+table{
+    color: brown;
+} 
+#hor{ 
+    font-family: cursive;
+    color: blue;
+}
